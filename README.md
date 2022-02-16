@@ -1,7 +1,7 @@
 # Hi, I'm Axel Valentin! 👋
 
 <a href="url">
-    <img src="https://i0.wp.com/i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" height="auto" width="auto" style="border-radius:10%">
+    <img src="https://i0.wp.com/i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" height="auto" width="auto" style="border-radius:5%">
 </a>
 
 #
