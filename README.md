@@ -41,7 +41,8 @@
 
 #
 
-<div align="center">  
+<div align="center">
+  <img style="margin: 10px" src="./icons/git.svg" alt="git" height="50" />
   <img style="margin: 10px" src="./icons/ubuntu.svg" alt="ubuntu" height="50" /> 
   <img style="margin: 10px" src="./icons/vagrant.svg" alt="vagrant" height="50" /> 
   <img style="margin: 10px" src="./icons/vscode.svg" alt="vscode" height="50" /> 
