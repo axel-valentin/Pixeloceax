@@ -37,25 +37,54 @@
 <br />
 
 <div align="center">
-  <!-- languages use -->
-  <img style="margin: 10px" src="./icons/bash.svg" alt="bash" height="50" />
-  <img style="margin: 10px" src="./icons/c.svg" alt="C" height="50" /> 
-  <img style="margin: 10px" src="./icons/python.svg" alt="python" height="50" /> 
-  <img style="margin: 10px" src="./icons/html5.svg" alt="html" height="50" /> 
-  <img style="margin: 10px" src="./icons/css3.svg" alt="css" height="50" />
-  <img style="margin: 10px" src="./icons/javascript.svg" alt="JS" height="50" />
-  <img style="margin: 10px" src="./icons/React-icon.svg" alt="ReactJS" height="50" />
+  <!-- Github -->
+  <img style="margin: 10px" src="./icons/github-copilot.svg" alt="github-copilot" height="50" />
+  <img style="margin: 10px" src="./icons/github-icon.svg" alt="github" height="50" />
 </div>
 
 #
 
 <div align="center">
-  <!-- software use -->
-  <img style="margin: 10px" src="./icons/git.svg" alt="git" height="50" />
-  <img style="margin: 10px" src="./icons/ubuntu.svg" alt="ubuntu" height="50" /> 
-  <img style="margin: 10px" src="./icons/vagrant.svg" alt="vagrant" height="50" > 
-  <img style="margin: 10px" src="./icons/vscode.svg" alt="vscode" height="50" /> 
-  <img style="margin: 10px" src="./icons/mysql.svg" alt="mysql" height="50" />
-  <img style="margin: 10px" src="./icons/nginx.svg" alt="nginx" height="50" />
-  <img style="margin: 10px" src="./icons/slack.svg" alt="slack" height="50" />
+  <!-- DB -->
+    <img style="margin: 10px" src="./icons/mongodb-icon.svg" alt="MongoDB" height="50" />
+    <img style="margin: 10px" src="./icons/mysql-icon.svg" alt="MySQL" height="50" />
+    <img style="margin: 10px" src="./icons/postgresql.svg" alt="PostgreSQL" height="50" />
+</div>
+
+#
+
+<div align="center">
+  <!-- languages use -->
+    <img style="margin: 10px" src="./icons/html-5.svg" alt="html" height="50" />
+    <img style="margin: 10px" src="./icons/css-3.svg" alt="css" height="50" />
+    <img style="margin: 10px" src="./icons/javascript.svg" alt="JS" height="50" />
+    <img style="margin: 10px" src="./icons/python.svg" alt="python" height="50" />
+</div>
+
+#
+
+<div align="center">
+  <!-- software -->
+    <img style="margin: 10px" src="./icons/git-icon.svg" alt="git" height="50" />
+    <img style="margin: 10px" src="./icons/ubuntu.svg" alt="ubuntu" height="50" /> 
+    <img style="margin: 10px" src="./icons/vagrant-icon.svg" alt="vagrant" height="50" > 
+    <img style="margin: 10px" src="./icons/visual-studio-code.svg" alt="vscode" height="50" >
+    <img style="margin: 10px" src="./icons/slack-icon.svg" alt="slack" height="50" />
+    <img style="margin: 10px" src="./icons/postman-icon.svg" alt="postman" height="50" />
+    <img style="margin: 10px" src="./icons/netlify-icon.svg" alt="netlify" height="50" />
+
+</div>
+
+#
+
+<div align="center">
+  <!-- framework use -->
+    <img style="margin: 10px" src="./icons/react.svg" alt="ReactJS" height="50" />
+    <img style="margin: 10px" src="./icons/vue.svg" alt="vue" height="50" />
+    <img style="margin: 10px" src="./icons/typescript-icon.svg" alt="express" height="50" />
+    <img style="margin: 10px" src="./icons/nodejs-icon.svg" alt="NodeJS" height="50" />
+    <img style="margin: 10px" src="./icons/npm-icon.svg" alt="npm" height="50" />
+    <img style="margin: 10px" src="./icons/bootstrap.svg" alt="Bootstrap" height="50" />
+    <img style="margin: 10px" src="./icons/tailwindcss-icon.svg" alt="tailwindcss" height="50" />
+    <img style="margin: 10px" src="./icons/webpack.svg" alt="webpack" height="50" />
 </div>
