@@ -1,7 +1,7 @@
 <h1> Hi there 👋, I'm Axel Valentin </h1>
-
-<table width="100%" align="center">
-  <td width="50%">
+<img width="50%" style="float: right;" src="./assets/img/working.svg">
+<div width="100%">
+  <div width="50%">
 
 - 🌎 I'm from Lille, France.
 - 🔭 Currently a student at Holberton.
@@ -46,8 +46,6 @@
   <img width="50px" style="margin-right: 10" src="./assets/icons/git.svg">
 </div>
 
- </td>
-  <td align="center" width="50%">
-    <img src="./assets/img/working.svg">
-  </td>
-</table>
+ </div>
+  
+</div>
