@@ -1,5 +1,5 @@
 <h1> Hi there 👋, I'm Axel Valentin </h1>
-<img width="50%" style="float: right;" src="./assets/img/working.svg">
+<img width="50%" align="right" src="./assets/img/working.svg">
 <div width="100%">
   <div width="50%">
 
