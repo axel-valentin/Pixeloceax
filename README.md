@@ -4,9 +4,8 @@
   <div width="50%">
 
 - 🌎 I'm from Lille, France.
-- 🔭 Currently a student at Holberton.
+- 🔭 Currently seeking for an internship.
 - 🌱 Learning some back-end and front-end technologies.
-- 🎯 Seeking an internship opportunity.
 - ⚙️ Preferring backend over frontend development.
 - 🐈‍⬛ Cat lover.
 - 🌐 My portfolio: https://axelvalentin.com/
