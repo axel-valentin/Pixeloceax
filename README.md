@@ -4,11 +4,11 @@
   <div width="50%">
 
 - 🌎 I'm from Lille, France.
-- 🔭 Currently seeking for an internship.
-- 🌱 Learning some back-end and front-end technologies.
-- ⚙️ Preferring backend over frontend development.
+- 🔭 Seeking a job opportunity.
+- 🌱 Currently learning Adonis.js.
+- ⚙️ Preferring backend development.
 - 🐈‍⬛ Cat lover.
-- 🌐 My portfolio: https://axelvalentin.com/
+- 🌐 My portfolio: axelvalentin.com
 
 ### Connect with me:
 
