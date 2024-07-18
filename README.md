@@ -25,7 +25,7 @@
   <br>
 </div>
 
-### Languages and Tools:
+### Main Languages ​​and Tools:
 
 <br>
 
