@@ -8,7 +8,7 @@
 - 🌱 Currently learning Adonis.js.
 - ⚙️ Preferring backend development.
 - 🐈‍⬛ Cat lover.
-<a href="https://axelvalentin.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+- <a href="https://axelvalentin.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
 
 ### Connect with me:
 
