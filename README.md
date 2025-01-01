@@ -3,10 +3,9 @@
 <div width="100%">
   <div width="50%">
 
-- 🌎 I'm from Lille, France.
-- 🔭 Seeking a job opportunity.
-- 🌱 Currently learning Adonis.js.
-- ⚙️ Preferring backend development.
+- 🌎 I'm from Beauvais, France.
+- 🌱 Currently QA Tester @ ISAGRI.
+- ⚙️ Develops tools for testers.
 - 🐈‍⬛ Cat lover.
 - <a href="https://axelvalentin.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About&logoColor=white" /> </a>
 
@@ -23,7 +22,7 @@
   <br>
 </div>
 
-### Main Languages ​​and Tools:
+### What I use:
 
 <br>
 
